@@ -35,5 +35,33 @@
             "year": 1951,
             "genre": "Fiction"
         }  
+    ],
+
+    "Noots" : [
+        {
+            "id": 1,
+            "name": "Noot1",
+            "age": 20,
+            "gender": "male",
+            "class": "12th",
+            "school": "ABC School"
+        },
+        {
+            "id": 2,
+            "name": "Noot2",
+            "age": 21,
+            "gender": "female",
+            "class": "11th",
+            "school": "XYZ School"
+        },
+        {
+            "id": 3,
+            "name": "Noot3",
+            "age": 22,
+            "gender": "male",
+            "class": "10th",
+            "school": "PQR School"
+        }
     ]
 }
+
